@@ -8,7 +8,10 @@ export default function Home() {
     <div>
       <Header />
       <Baner />
+      <div className="flex items-center justify-center">
       <CompanyCard />
+      </div>
+      
     </div>
   );
 }
