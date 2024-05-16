@@ -11,7 +11,7 @@ export default function PersonaCard() {
             flex flex-col items-center mx-8">
                 <h1 className="text-xl font-mono mt-4">Gabriel Braga</h1>
                 <Image src="/assets/gabriel.jpeg" alt="" width={90} height={90} 
-                className=" mt-4 rounded-2xl border-2 border-blue-500" />
+                className=" mt-4 rounded-2xl border-2 border-blue-600" />
                 <h2 className="mt-6">Cargo: CEO</h2>
                 <h2>Formação: Engenharia de computação</h2>
                 <h2>Universidade Federal do Cerara</h2>
